@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/17.0
+vmemory
+!s110 1727801081
+!i10b 1
+!s100 Zn:bjlh6nG:k[NhlNV=gg0
+Ij0>?P`zab=U7OWREU9nHY3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/NewProjects/memory
+w1727801066
+8D:\NewProjects\memory\memory.v
+FD:\NewProjects\memory\memory.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1727801081.000000
+!s107 D:\NewProjects\memory\memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\NewProjects\memory\memory.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vmemory_tb
+!s110 1727800973
+!i10b 1
+!s100 >R?1IKUFVljmRI?=lh[2F2
+I_CiHSYoVIR^;cHIlW>1G63
+R0
+R1
+w1727800964
+8D:\NewProjects\memory\memory_tb.v
+FD:\NewProjects\memory\memory_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1727800973.000000
+!s107 D:\NewProjects\memory\memory_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\NewProjects\memory\memory_tb.v|
+!i113 1
+R3
+R4
